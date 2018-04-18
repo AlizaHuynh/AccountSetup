@@ -1,7 +1,10 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ * Aliza Huynh
+ * AccountSetup.java
+ * This program is similar to the password program
+ * in which it prompts the user for a desired username and password
+ * and does not let the user create the account unless the password is 8 characters
+ * or more
  */
 
 package AccountSetup;
